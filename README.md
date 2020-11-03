@@ -11,4 +11,4 @@ As well as building people and technology, I love writing.
 
 Since I spend most of my time on management and writing, you won't find a ton of public code on Github from the last few years. However, I'm still tinkering around for fun in private repositories, mostly following online courses.
 
-I'm on Twitter [@jstanier](https://www.twitter.com/jstanier) if you'd like to chat.
+I'm on Twitter ([@jstanier](https://www.twitter.com/jstanier)) if you'd like to chat.
