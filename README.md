@@ -2,7 +2,7 @@
 
 My name is James. Nice to meet you.  
 
-I'm [SVP Engineering](https://www.linkedin.com/in/jstanier/) at [Brandwatch](https://www.brandwatch.com). We build the world's best digital consumer intelligence platform.
+I'm [Director of Engineering](https://www.linkedin.com/in/jstanier/) at [Shopify](https://www.shopify.com). We enable millions of merchants around the world to run their businesses.
 
 As well as building people and technology, I love writing.
 
