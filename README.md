@@ -2,7 +2,7 @@
 
 My name is James. Nice to meet you.  
 
-I'm [Director of Engineering](https://www.linkedin.com/in/jstanier/) at [Shopify](https://www.shopify.com). We enable millions of merchants around the world to run their businesses. I'm hiring, so get in touch if you're interested in working with me.
+I'm [Director of Engineering](https://www.linkedin.com/in/jstanier/) at [Shopify](https://www.shopify.com). We enable millions of merchants around the world to run their businesses. I'm always hiring, so [get in touch](https://www.twitter.com/jstanier) if you want to make a real impact on how the world does business.
 
 As well as building people and technology, I love writing.
 
