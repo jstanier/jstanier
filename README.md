@@ -7,7 +7,7 @@ I'm [Director of Engineering](https://www.linkedin.com/in/jstanier/) at [Shopify
 As well as building people and technology, I love writing.
 
 * I published a book called [Become an Effective Software Engineering Manager](https://www.theengineeringmanager.com/book/). I wrote it to help other engineers make the leap into running teams.
+* My second book called [Effective Remote Work (in beta)](https://pragprog.com/titles/jsrw/effective-remote-work/) is about just that. Wherever you work from nowadays, your colleagues are likely to be somewhere else. It's about the tools and practices you need to succeed in that environment.
 * I run [The Engineering Manager](https://www.theengineeringmanager.com) which is a blog to help people become better tech leads and managers.
-* I'm in the middle of writing a second book for Pragmatic Programmers on remote working. It's being released in beta on 20th October 2021.
 
 I'm on Twitter ([@jstanier](https://www.twitter.com/jstanier)) if you'd like to chat.
