@@ -10,4 +10,4 @@ As well as building people and technology, I love writing.
 * My second book called [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/) is about just that. Wherever you work from nowadays, your colleagues are likely to be somewhere else. It's about the tools and practices you need to succeed in that environment.
 * I run [The Engineering Manager](https://www.theengineeringmanager.com) which is a blog to help people become better tech leads and managers. You can subscribe to the mailing list [here](https://theengineeringmanager.substack.com/embed) to get the articles in your inbox.
 
-I'm on X/Twitter ([@jstanier](https://www.twitter.com/jstanier)) if you'd like to chat. Else, you can contact me at `hello` at `theengineeringmanager.com`.
+I'm on X ([@jstanier](https://www.twitter.com/jstanier)) if you'd like to chat. Else, you can contact me at `hello` at `theengineeringmanager.com`.
