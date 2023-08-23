@@ -6,6 +6,7 @@ I'm [Director of Engineering](https://www.linkedin.com/in/jstanier/) at [Shopify
 
 As well as building people and technology, I love writing.
 
+* I am serving on the [Lead Dev advisory board](https://leaddev.com/advisory-board) for 2024.
 * I published a book called [Become an Effective Software Engineering Manager](https://www.theengineeringmanager.com/book/). I wrote it to help other engineers make the leap into running teams.
 * My second book called [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/) is about just that. Wherever you work from nowadays, your colleagues are likely to be somewhere else. It's about the tools and practices you need to succeed in that environment.
 * A birdie told me that there is a third book underway...
