@@ -9,7 +9,7 @@ As well as building people and technology, I love writing.
 * I am serving on the [Lead Dev advisory board](https://leaddev.com/advisory-board) for 2024.
 * I published a book called [Become an Effective Software Engineering Manager](https://www.theengineeringmanager.com/book/). I wrote it to help other engineers make the leap into running teams.
 * My second book called [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/) is about just that. Wherever you work from nowadays, your colleagues are likely to be somewhere else. It's about the tools and practices you need to succeed in that environment.
-* I began writing my third book, which is about senior management and leadership, in August 2023. More information to come as it develops.
+* My third book is called [Become A Great Engineering Leader](https://pragprog.com/titles/jsenglb/become-a-great-engineering-leader/), and it focusses on the leadership journey to Director, VP and beyond.
 * Also, I run [The Engineering Manager](https://www.theengineeringmanager.com) which is a blog to help people become better tech leads and managers. You can subscribe to the mailing list [here](https://theengineeringmanager.substack.com/embed) to get the articles in your inbox.
 
 I'm on X ([@jstanier](https://www.twitter.com/jstanier)) if you'd like to chat. Else, you can contact me at `hello` at `theengineeringmanager.com`.
