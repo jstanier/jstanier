@@ -2,8 +2,6 @@
 
 My name is James. Nice to meet you.  
 
-I'm [Director of Engineering](https://www.linkedin.com/in/jstanier/) at [Shopify](https://www.shopify.com). We enable millions of entrepreneurs around the world to run their businesses. I'm always hiring, so [get in touch](https://www.twitter.com/jstanier) if you want to make commerce better for everyone.
-
 As well as building people and technology, I love writing.
 
 * I published a book called [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/). I wrote it to help other engineers make the leap into running teams.
