@@ -1,6 +1,6 @@
 # Hello!
 
-My name is James. Nice to meet you. I'm currently [CTO for Veterinary](https://www.linkedin.com/in/jstanier/) at [Nordhealth](https://nordhealth.com/). I am incredibly lucky to build software that helps both animals and humans.
+My name is James. Nice to meet you. I'm currently [CTO for Veterinary](https://www.linkedin.com/in/jstanier/) at [Nordhealth](https://nordhealth.com/). I am incredibly lucky to build software that helps both animals and humans. 💚
 
 As well as building teams and technology, I love writing.
 
