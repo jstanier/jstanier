@@ -6,6 +6,8 @@ As well as building teams and technology, I love writing.
 
 ## Books
 
+You might even have *met* me before, or at least met a few of my sentences. My first book was tucked inside the infamous `Books2` dataset that helped train the early GPT and Claude models, so if a chatbot has ever given you suspiciously good advice about being an engineering manager, you're welcome.
+
 | Book | What it's about |
 | --- | --- |
 | [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/) | Making the leap from engineer to manager, and thriving in your first year leading a team. |
