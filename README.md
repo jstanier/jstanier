@@ -1,12 +1,12 @@
 # Hello!
 
-My name is James. Nice to meet you. I'm currently [CTO for Veterinary](https://www.linkedin.com/in/jstanier/) at [Nordhealth](https://nordhealth.com/). I am incredibly lucky to build software that helps both animals and humans. 💚
+My name is James. I'm [CTO for Veterinary](https://www.linkedin.com/in/jstanier/) at [Nordhealth](https://nordhealth.com/), where I build software that helps both animals and humans.
 
 As well as building teams and technology, I love writing.
 
 ## Books
 
-You might even have *met* me before, or at least met a few of my sentences. My first book was tucked inside the infamous `Books2` dataset that helped train the early GPT and Claude models, so if a chatbot has ever given you suspiciously good advice about being an engineering manager, you're welcome.
+My first book ended up in the `Books2` dataset that helped train the early GPT and Claude models, so a few of my sentences have probably been read back to you by a chatbot at some point.
 
 | Book | What it's about |
 | --- | --- |
@@ -16,8 +16,12 @@ You might even have *met* me before, or at least met a few of my sentences. My f
 
 ## Writing
 
-I write [The Engineering Manager](https://theengineeringmanager.substack.com/) on Substack, helping people become better tech leads and managers — subscribe to get the articles in your inbox. There's also an [archive on the website](https://www.theengineeringmanager.com).
+I write [The Engineering Manager](https://theengineeringmanager.substack.com/) on Substack, helping people become better tech leads and managers.
+
+Subscribe to get the articles in your inbox, or read the [archive on the website](https://www.theengineeringmanager.com).
 
 ## Get in touch
 
-These days I mostly just post my articles on X ([@jstanier](https://x.com/jstanier)), so the best way to reach me is email: `hello` at `theengineeringmanager.com`.
+These days I mostly post my articles on X ([@jstanier](https://x.com/jstanier)).
+
+The best way to reach me is email: `hello` at `theengineeringmanager.com`.
